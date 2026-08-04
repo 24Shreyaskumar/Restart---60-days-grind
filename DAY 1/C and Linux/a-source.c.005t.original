@@ -1,0 +1,9 @@
+
+;; Function add (null)
+;; enabled by -tree-original
+
+
+{
+  return a + b;
+}
+

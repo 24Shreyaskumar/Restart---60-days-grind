@@ -1,0 +1,36 @@
+EARLY DWARF for source.c
+DIE    0: DW_TAG_compile_unit (0000024f06b825e8)
+  abbrev id: 0 offset: 0 mark: 0
+  DW_AT_producer: "GNU C17 11.2.0 -mtune=generic -march=x86-64 -g"
+  DW_AT_language: 29
+  DW_AT_name: "source.c"
+  DW_AT_comp_dir: "C:\Users\24Shreyaskumar\Documents\Restart---60-days-grind\DAY 1\C and Linux"
+    DIE    0: DW_TAG_subprogram (0000024f06b82630)
+      abbrev id: 0 offset: 0 mark: 0
+      DW_AT_external: 1
+      DW_AT_name: "add"
+      DW_AT_decl_file: "source.c" (0)
+      DW_AT_decl_line: 1
+      DW_AT_decl_column: 5
+      DW_AT_prototyped: 1
+      DW_AT_type: die -> 0 (0000024f06b82678)
+        DIE    0: DW_TAG_formal_parameter (0000024f06b826c0)
+          abbrev id: 0 offset: 0 mark: 0
+          DW_AT_name: "a"
+          DW_AT_decl_file: "source.c" (0)
+          DW_AT_decl_line: 1
+          DW_AT_decl_column: 13
+          DW_AT_type: die -> 0 (0000024f06b82678)
+        DIE    0: DW_TAG_formal_parameter (0000024f06b82708)
+          abbrev id: 0 offset: 0 mark: 0
+          DW_AT_name: "b"
+          DW_AT_decl_file: "source.c" (0)
+          DW_AT_decl_line: 1
+          DW_AT_decl_column: 20
+          DW_AT_type: die -> 0 (0000024f06b82678)
+    DIE    0: DW_TAG_base_type (0000024f06b82678)
+      abbrev id: 0 offset: 0 mark: 0
+      DW_AT_byte_size: 4
+      DW_AT_encoding: 5
+      DW_AT_name: "int"
+

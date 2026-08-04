@@ -1,0 +1,16 @@
+int main ()
+{
+  int D.1951;
+
+  {
+    int sum;
+
+    sum = add (2, 3);
+    D.1951 = 0;
+    return D.1951;
+  }
+  D.1951 = 0;
+  return D.1951;
+}
+
+
